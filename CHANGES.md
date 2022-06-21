@@ -1,5 +1,7 @@
 # Ejemplo de tabla en Markdown
 
+Este es el documento que tengo.
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
